@@ -6,13 +6,13 @@ Once the data is collected from different sources, models are applied on the tra
 It can never predict the future, but it can look at existing data and determine a likely outcome <br>
 Predictive Model can be of two categories: Parametric and Non-Parametric,Parametric models make more assumptions and more specific assumptions about the characteristics of the population used in creating the model.<br>
 Some of the different types of predictive models are:
-## Ordinary Least Squares <br>
-## Generalized Linear Models (GLM) <br>
-## Logistic Regression <br>
-## Random Forests <br>
-## Decision Trees <br>
-## Neural Networks <br>
-## Multivariate Adaptive Regression Splines (MARS) <br>
+ Ordinary Least Squares <br>
+ Generalized Linear Models (GLM) <br>
+ Logistic Regression <br>
+ Random Forests <br>
+ Decision Trees <br>
+ Neural Networks <br>
+ Multivariate Adaptive Regression Splines (MARS) <br>
 
 Here I am using Random Forest Algorithm for data modeling using predictive analytic in python. <br>
 
