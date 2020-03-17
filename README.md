@@ -4,8 +4,8 @@ Predictive Modeling is a process to predict outcomes form the data models.<br>
 Predictive Modeling is also referred as Predictive Analytics.<br>
 Once the data is collected from different sources, models are applied on the trained data so that predictive modeling can forecast the outcomes based ont he questions arised to solve business needs.<br>
 It can never predict the future, but it can look at existing data and determine a likely outcome <br>
-Predictive Model can be of two categories: Parametric and Non-Parametric,Parametric models make more assumptions and more specific assumptions about the characteristics of the population used in creating the model.<br>
-Some of the different types of predictive models are:
+Predictive Model can be of two categories: Parametric and Non-Parametric,Parametric models make more assumptions and more specific assumptions about the characteristics of the population used in creating the model.<br><br>
+Some of the different types of predictive models are:<br>
  Ordinary Least Squares <br>
  Generalized Linear Models (GLM) <br>
  Logistic Regression <br>
